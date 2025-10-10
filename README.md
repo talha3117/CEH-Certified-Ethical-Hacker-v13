@@ -57,7 +57,7 @@ By using this repository, you will:
 If you find this repository helpful, don’t forget to **⭐ star** it!  
 You can also connect with me for discussions, collaboration, or guidance on CEH learning paths.
 
-📧 **Email:** yourname@example.com  
+📧 **Email:** talzzz.mza@gmail.com 
 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/talha-ahmed-422537181/)  
 🐙 **GitHub:** [Your GitHub Profile](https://github.com/talha3117)
 
